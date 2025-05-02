@@ -1,0 +1,1 @@
+I created this website in 2019. It's a landing page with a form for resending emails using JavaScript (it doesn't use a database, which is risky because emails might be lost depending on the email service being used).
